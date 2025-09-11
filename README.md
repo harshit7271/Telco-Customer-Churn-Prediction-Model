@@ -26,13 +26,13 @@ A comprehensive machine learning project for predicting telecom customer churn. 
 Customer churn causes significant financial loss to telecom companies. This project detects churn patterns and builds a predictive model to proactively identify at-risk customers.
 
 ---
-Place `telco_churn.csv` in the `data/` directory.
+Place `https://github.com/harshit7271/Telco-Customer-Churn-Prediction-Model/blob/main/WA_Fn-UseC_-Telco-Customer-Churn.csv` in the `data/` directory.
 
 ---
 
 ## Data Exploration & Visualization
 
-![Histplot](Place `"Telco-Customer-Churn.csv"` in the `data/` directory.
+![Histplot](Place `https://github.com/harshit7271/Telco-Customer-Churn-Prediction-Model/blob/main/WA_Fn-UseC_-Telco-Customer-Churn.csv` in the `data/` directory.
 
 ---
 
