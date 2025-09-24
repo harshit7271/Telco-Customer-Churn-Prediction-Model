@@ -3,7 +3,14 @@
 ## Overview
 
 A comprehensive machine learning project for predicting telecom customer churn. The workflow includes thorough data exploration, advanced visualizations (histplot, boxplot, countplot, correlation heatmap), rigorous preprocessing (Label Encoder, SMOTE), and compares three classifiers. RandomForestClassifier is selected as the final model due to its superior results.
+---
+## 🌟 Live Demo
 
+Experience the power of machine learning in action with our interactive Streamlit app for predicting customer churn in the telecom sector.
+
+👉 [**Launch the App**](https://telco-customer-churn-prediction-model-mxwbwxwvfnqcupwvt5wlut.streamlit.app/) — No installation needed!
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://telco-customer-churn-prediction-model-mxwbwxwvfnqcupwvt5wlut.streamlit.app/)
 ---
 
 ## Table of Contents
